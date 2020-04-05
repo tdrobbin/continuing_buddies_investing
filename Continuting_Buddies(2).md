@@ -13,6 +13,14 @@ all in 15 mins! sooo a lot of hand waving
 
 ![money](moneyman.jpg)
 
+## DISCLAIMER
+
+## THIS IS NOT INVESTMENT ADVICE
+
+## THE PERSON PRESENTING IS NOT QUALIFIED OR LICENSED TO LEGALLY GIVE INVESTMENT ADVICE, AND THE INFORMATION CONTAINED HERE SHOULD NOT BE CONSTRUED AS SUCH
+
+## THIS INFORMATION IS STRICTLY FOR EDUCATIONALY PURPOSES ONLY
+
 # Outline
 1. Financial Assets
   * stocks
@@ -33,39 +41,41 @@ all in 15 mins! sooo a lot of hand waving
 
 # 1. Financial Assets
 
-financial assets are things you own that are used to bring in money directly. 
+financial assets are things you own that entitle you to cash flow - just by owning them. 
 
 they differ from other physical assets like a car or a home which are used to do things which may or may not ultiamtey bring in money.
 
 if you want to make money from your car, you have to drive ppl around for uber!
 if you want to make money at your job you have to work!
-if you want to make money with a finnanical asset you have to sit on your tuchus! **and** assume risk.
+if you want to make money with a finnanical asset you have to sit on your A$$! **and** assume risk.
 
 ## Stocks
 * represent piece of ownership of a company.
 * why do you want ownership? Profits Of course!
-* risky - if company makes no profits, you get no profits. If company goes bankrupt you're SOL
+* risky - if company makes no profits, you get no profits. If company goes bankrupt you're SOL.
 
 ## Bonds
-* a tradable loan. principal, interest, maturity
-* less risky than stocks. Companies must pay interest on debt before they can take profits
-* if a compnay goes bankrupt you have more rights to sieze assets than stock holders
+* a tradable loan. principal, interest, maturity.
+* less risky than stocks. Companies must pay interest on debt before they can take profits.
+* if a compnay goes bankrupt, or defaults on a payment you have more rights to money from selling company assets than stock holders.
 
 
 ## Fundamental Theorem of Finance
 * how much would you pay for 100 bones 1 year from now? how much if you had a 50\% chance of getting the 100 bones 1 year from now?
-* A financial asset is worth all the **expected** future money it's supposed to pay you (discounted)
-  * time value of money
-* for stocks this is (theoretically) all the future profits
-* for bonds this is all the future coupons (interest payments) and principal
+* A financial asset is worth all the **expected** future money it's supposed to pay you (discounted).
+  * time value of money.
+* for stocks this is (theoretically) all the future profits.
+* for bonds this is all the future coupons (interest payments) and principal.
 
 ![Some Math](dcf.png)
 
 ## The price of a financial asset represents the expectation of investors about money they will be payed
 
-investors like guaranteed money. the riskier the company, the more they have to pay investors to compensate them for the greater risk thy're taking.
+investors like guaranteed money. the riskier the company, the more the company has to pay investors to compensate them for the greater risk they're taking.
+  * for equity investors (stock holders) this compensation is in the form of future profits.
+  * for debt investors (bond holders) this compensation is in the form of interest.
 
-the more uncertainy around how much money you're getting the less desirable the investment so the more you need to guarantee investors to compensate them.
+the more uncertainy around how much money you're getting the more you need to guarantee investors to compensate them.
 
 investors **don't like uncertainty**
 
@@ -111,12 +121,38 @@ risk adjusted return is the return / volatility. higher is better! it means the 
 ![vol comparison](vol_comparison_2.png)
 
 
+## Sharpe Ratio Revisited
+
+Thing in in terms of statistics / information theory / human competency Sharpe Ratio 
+
+### = (return / risk)
+
+### = (signal / noise)
+             
+### = (skill / luck)
+
+If you have 1 year history of returns and they're high (say 10%) but volatility is really high (say 80%) then from a statistical standpoint the price moved around sooo much it easily could have ended up at -10%.
+
+> with a high volatility and short history, you can't disprove the assumption that the manager just got lucky!
+
+or putting our statistician's hat on...
+
+> with a high standard error (due to a high sample standard deviation and/or a small sample size) we can't disprove the null hypothesis that the mean of the distribution of returns is zero at a statistically significanat level.
+
 # 3. So What Should **You** do?
 
 how can you take advantage of all this information? 
 
 invest in the market, via passive funds. eschew active funds.
 
+
+## DISCLAIMER
+
+## THIS IS NOT INVESTMENT ADVICE
+
+## THE PERSON PRESENTING IS NOT QUALIFIED OR LICENSED TO LEGALLY GIVE INVESTMENT ADVICE, AND THE INFORMATION CONTAINED HERE SHOULD NOT BE CONSTRUED AS SUCH
+
+## THIS INFORMATION IS STRICTLY FOR EDUCATIONALY PURPOSES ONLY
 
 ## Index Fund/ETF
 they invest in the braod market.
@@ -128,6 +164,9 @@ they have index funds for bonds too. but you should be invested mostly in stocks
 
 Index funds have better returns and better sharpe than actively managed funds (mutual funds and hedge funds)
 
+## US Market + Income
+![US Market](mkt_heatmap.png)
+
 ## Active Funds Lose Money
 
 ![active loses](active_vs_passive.png)
@@ -137,8 +176,17 @@ Index funds have better returns and better sharpe than actively managed funds (m
 2. Or Open up an account with Charles Schwab, they're good and don't charge fees to trade
 3. Ask Your broker, or submit the order through their website, to buy Fidelity US Index ETF
 > symbol is **FZROX** and they charge you a ZERO PERCENT FEE for managing your money
+> can also ask for **SPY** which was the very first ETF and started in 1993.
 4. Invest a little bit every month
 5. Sit back and relax and let the $ roll in
+
+## DISCLAIMER
+
+## THIS IS NOT INVESTMENT ADVICE
+
+## THE PERSON PRESENTING IS NOT QUALIFIED OR LICENSED TO LEGALLY GIVE INVESTMENT ADVICE, AND THE INFORMATION CONTAINED HERE SHOULD NOT BE CONSTRUED AS SUCH
+
+## THIS INFORMATION IS STRICTLY FOR EDUCATIONAL PURPOSES ONLY
 
 ## Key Takeaways
 
@@ -162,4 +210,30 @@ intro to investing: https://www.thebalance.com/investing-for-beginners-4074004
 intro to investing: https://www.investopedia.com/articles/basics/11/3-s-simple-investing.asp
 
 
+book on fundamental analysis:https://www.amazon.com/Intelligent-Investor-Definitive-Investing-Essentials/dp/0060555661
 
+
+book on quant investing: https://www.amazon.com/Active-Equity-Management-Xinfeng-Zhou/dp/0692297774/ref=sr_1_1?dchild=1&keywords=active+equity+management&qid=1586067607&s=books&sr=1-1
+
+
+
+
+## US Market Performace Since 1993
+![](spy1.png)
+
+![](spy2.png)
+
+![](spy3.png)
+
+## DISCLAIMER
+
+## THIS IS NOT INVESTMENT ADVICE
+
+## THE PERSON PRESENTING IS NOT QUALIFIED OR LICENSED TO LEGALLY GIVE INVESTMENT ADVICE, AND THE INFORMATION CONTAINED HERE SHOULD NOT BE CONSTRUED AS SUCH
+
+## THIS INFORMATION IS STRICTLY FOR EDUCATIONALY PURPOSES ONLY
+
+
+```python
+
+```
